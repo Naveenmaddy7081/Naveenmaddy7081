@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenmaddy7081&" alt="naveenmaddy7081" /></p>
 
 #### My GitHub Contributions
-![snake_animation](https://github.com/naveenmaddy7081/naveenmaddy7081/blob/output/github-contribution-grid-snake.svg)
+
